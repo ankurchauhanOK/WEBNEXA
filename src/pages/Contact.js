@@ -163,7 +163,7 @@ const Contact = () => {
                                 <p className="text-red-500 text-sm">{errors.message}</p>
                             }
                         </div>
-                        <div className="my-2 w-1/2 lg:w-2/4">
+                        <div className="my-2">
                             <button type="submit" id="submitBtn" className="uppercase text-sm font-bold tracking-wide bg-gray-500 hover:bg-blue-900 text-gray-100 p-3 rounded-lg w-full 
                                     focus:outline-none focus:shadow-outline">
                                 Send Message
@@ -192,7 +192,7 @@ const Contact = () => {
 
                         <div className="flex flex-col">
                         <h2 className="text-2xl">Call Us</h2>
-                        <p className="text-gray-400">Tel: +9117846105</p>
+                        <p className="text-gray-400">Tel: +917017846105</p>
                         
                             <div className='mt-5'>
                                 <h2 className="text-2xl">Send an E-mail</h2>
