@@ -16,10 +16,8 @@ const Footer = () => {
                         <div className="box-border border-b-4 border-blue-900 p-8 bg-gray-200 text-gray-600 text-center rounded-lg xl:w-80 mx-auto">
                             <h3 className="font-bold text-4xl mb-4">MLD</h3>
                             <div className='text-md font-medium text-gray-600'>
-                                <h5>Molad e Konsult</h5>
-                                <p>Ilo Awela,</p>
-                                <p>Ota,</p>
-                                <p>Ogun State.</p>
+                            <h1 className="text-md font-bold text-gray-600" style={{ fontFamily: 'Space Grotesk' }}>WebNexa</h1>
+
                             </div>
                         </div>
                     </div>
